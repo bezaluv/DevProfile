@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_videosimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\videosimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dataimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\dataimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_videosimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\videosimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_favoritebutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\favoritebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dataimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\dataimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_favoritebutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\favoritebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_videosimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\videosimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_imagesimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\imagesimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dataimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\dataimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_devslopesbanner.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\devslopesbanner.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_devslopesbanner.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\devslopesbanner.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_codeimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\codeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_inboxbutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\inboxbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_devslopesbanner.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\devslopesbanner.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_codeimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\codeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_imagesimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\imagesimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_imagesimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\imagesimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dataimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\dataimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_favoritebutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\favoritebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_imagesimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\imagesimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dataimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\dataimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_camerabutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\camerabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_codeimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\codeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_inboxbutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\inboxbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_devslopesbanner.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\devslopesbanner.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_codeimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\codeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_imagesimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\imagesimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_inboxbutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\inboxbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inboxbutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\inboxbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_favoritebutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\favoritebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camerabutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\camerabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_codeimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\codeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camerabutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\camerabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_devslopesprofilelogo.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\devslopesprofilelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_favoritebutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\favoritebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_devslopesbanner.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\devslopesbanner.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_devslopesprofilelogo.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\devslopesprofilelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_videosimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\videosimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_videosimage.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\videosimage.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_inboxbutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\inboxbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camerabutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-mdpi\\camerabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_devslopesprofilelogo.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\devslopesprofilelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camerabutton.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-hdpi\\camerabutton.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_devslopesprofilelogo.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xhdpi\\devslopesprofilelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_devslopesprofilelogo.png.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\devslopesprofilelogo.png"
+    }
+]
