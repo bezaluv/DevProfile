@@ -24,6 +24,10 @@
         "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxhdpi\\dataimage.png"
     },
     {
+        "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_main.xml.flat",
+        "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_favoritebutton.png.flat",
         "source": "C:\\Users\\fillm\\Desktop\\DevProfile\\app\\src\\main\\res\\drawable-xxxhdpi\\favoritebutton.png"
     },
